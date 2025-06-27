@@ -10,9 +10,11 @@
         <a href="views/form.php"></a>
     </nav>
 
+    <?php
+        $nome = "Rogério";
+        echo $idade;
+       
 
-
-
-
+    ?>
 </body>
 </html>

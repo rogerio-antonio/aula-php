@@ -10,6 +10,12 @@
 <body>
     <h1>Aula de Formulário</h1>
 
+    <span> <?= $data['nome'];  ?></span>
+    <span> <?= $data['aluno']['curso']; ?></span>
+
+
+
+
     <form action="">
         <div>
             <label for="nome">Insira seu nome:</label>

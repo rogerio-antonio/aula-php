@@ -8,13 +8,10 @@
 <body>
     <nav>
         <a href="views/form.php"></a>
+        <a href="controllers/FormatacaoBrasilController.php">Formatação Brasil</a>
+         <a href="controllers/FormController.php">Formatação Brasil</a>
     </nav>
 
-    <?php
-        $nome = "Rogério";
-        echo $idade;
-       
-
-    ?>
+   
 </body>
 </html>

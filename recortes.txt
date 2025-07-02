@@ -1,4 +1,25 @@
+
+
  <?php
         $nome = "Rogério";
         echo $idade;    
     ?>
+
+
+
+
+
+
+
+02/07/2025 - Aula de Loop
+<tr>
+            <td>2</td>
+            <td>Maria</td>
+            <td>30</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>Mariana</td>
+            <td>50</td>
+        </tr>

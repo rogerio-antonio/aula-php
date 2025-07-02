@@ -10,6 +10,7 @@
         
         <a href="controllers/FormatacaoBrasilController.php">Formatação Brasil com PHP</a>
         <a href="controllers/FormController.php">Formulário</a>
+        <a href="controllers/ListaController.php">Lista de usuários</a>
     </nav>
 
    

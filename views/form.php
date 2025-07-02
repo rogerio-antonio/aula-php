@@ -1,5 +1,3 @@
-<?php require_once "../config.php"; ?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -16,10 +14,10 @@
 
 
 
-    <form action="">
+    <form action="FormStoreController.php" method="post">
         <div>
             <label for="nome">Insira seu nome:</label>
-            <input type="number" placeholder="Digite seu nome" name="nome" id="nome">
+            <input type="text" placeholder="Digite seu nome" name="nome" id="nome">
         </div>
 
          <div>

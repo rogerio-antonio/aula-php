@@ -7,9 +7,9 @@
 </head>
 <body>
     <nav>
-        <a href="views/form.php"></a>
-        <a href="controllers/FormatacaoBrasilController.php">Formatação Brasil</a>
-         <a href="controllers/FormController.php">Formatação Brasil</a>
+        
+        <a href="controllers/FormatacaoBrasilController.php">Formatação Brasil com PHP</a>
+        <a href="controllers/FormController.php">Formulário</a>
     </nav>
 
    

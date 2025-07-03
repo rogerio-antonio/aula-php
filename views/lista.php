@@ -19,9 +19,22 @@
                 <td><?= $usuario['nome'] ; ?></td>
                 <td><?= $usuario['idade'] ; ?></td>
             </tr>
-        <?php endforeach; ?>
+        <?php endforeach; ?>       
+    </table>
 
-        
+    <table border="1">
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+        </tr>
+
+        <?php foreach($data['produtos'] as $produto) : ?>
+            <tr>
+                <td><?= $produto['nome'] ; ?></td>
+                <td>R$ <?= number_format($produto['preco'], 2,",",".")  ; ?></td>
+               
+            </tr>
+        <?php endforeach; ?>       
     </table>
 
 </body>

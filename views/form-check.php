@@ -8,17 +8,17 @@
 <body>
     <form action="FormCheckProcessController.php" method="POST">
         <label for="opcao1">
-            <input type="checkbox" name="preferencias[]" id="opcao1" value="Opção 1">
+            <input type="checkbox" name="esportes[]" id="futebol" value="Futebol">
             Opção 1
         </label>
 
         <label for="opcao2">
-            <input type="checkbox" name="preferencias[]" id="opcao2" value="Opção 2">
+            <input type="checkbox" name="esportes[]" id="voley" value="Voley">
             Opção 2
         </label>
 
         <label for="opcao3">
-            <input type="checkbox" name="preferencias[]" id="opcao3" value="Opção 3">
+            <input type="checkbox" name="esportes[]" id="basquete" value="Basquete">
             Opção 3
         </label>
 

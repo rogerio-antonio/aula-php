@@ -25,6 +25,11 @@
             <input type="number" placeholder="Digite sua idade" name="idade" id="idade">
         </div>
 
+         <div>
+            <label for="senha">Insira sua senha:</label>
+            <input type="password" placeholder="Digite sua senha" name="senha" id="senha">
+        </div>
+
         <div>
             <label for="estado">Selecione seu estado:</label>
             <select name="estado" id="estado">
